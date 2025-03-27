@@ -18,4 +18,3 @@ To exit the program, enter 'exit' when prompted for an IP address.
 
 Please note that this script requires an active internet connection to fetch and display the Whois and IP information.
 
-Feel free to use, modify, and distribute this script according to your needs. If you encounter any issues or have suggestions for improvement, please let us know!
